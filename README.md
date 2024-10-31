@@ -21,3 +21,7 @@ EDA involved exploring the sales data to answer key questions, such as:
 - Which products are top sellers?
 - Which region has the most sales?
 - What are the peak sales months?
+
+  ### Data Analysis
+  ```Excel
+  
